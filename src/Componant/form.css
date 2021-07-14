@@ -1,0 +1,19 @@
+.App {
+    text-align: left;
+    margin-left: 50px;
+}
+  
+.form{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+.form input{
+    width: 200px;
+    height:initial;
+    margin: 10px;
+}
+.button {
+      background-color: #008CBA;
+      width: 200px;
+}
